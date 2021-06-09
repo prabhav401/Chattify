@@ -1,5 +1,5 @@
 # Chattify Application
-
+Full Stack
 Front End : Dart plus Flutter SDK
 Database : Firebase and Cloud Firestore 
 APIs : Google auth , firestore auth 
